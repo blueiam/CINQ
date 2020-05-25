@@ -1,3 +1,3 @@
 # git-github
-This is for tutorial perpose.
-wow
+This is for Plusminus site
+
